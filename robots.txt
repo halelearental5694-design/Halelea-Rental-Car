@@ -1,0 +1,12 @@
+# robots.txt
+# ハレレアレンタカー
+# https://harelea-rentacar.com/
+
+User-agent: *
+Allow: /
+
+# 管理画面などを使用する場合は必要に応じて追加
+# Disallow: /admin/
+# Disallow: /cgi-bin/
+
+Sitemap: https://harelea-rentacar.com/sitemap.xml

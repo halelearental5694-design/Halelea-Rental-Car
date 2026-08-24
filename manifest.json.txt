@@ -1,0 +1,29 @@
+{
+  "name": "ハレレアレンタカー 石垣島",
+  "short_name": "ハレレアレンタカー",
+  "description": "石垣島でレンタカーならハレレアレンタカー。軽自動車・コンパクトカーをリーズナブルな価格でご提供しています。",
+  "lang": "ja",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ffffff",
+  "theme_color": "#0d6efd",
+  "icons": [
+    {
+      "src": "images/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "images/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "images/icons/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}

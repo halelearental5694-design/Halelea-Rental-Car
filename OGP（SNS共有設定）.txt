@@ -1,0 +1,16 @@
+<!-- OGP -->
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="ハレレアレンタカー">
+<meta property="og:title" content="ハレレアレンタカー｜石垣島レンタカー">
+<meta property="og:description" content="石垣島でレンタカーならハレレアレンタカー。軽自動車・コンパクトカーをリーズナブルな料金でご利用いただけます。空港送迎対応（要相談）。">
+<meta property="og:url" content="https://harelea.com/">
+<meta property="og:image" content="https://harelea.com/images/ogp.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:locale" content="ja_JP">
+
+<!-- X（Twitter） -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="ハレレアレンタカー｜石垣島レンタカー">
+<meta name="twitter:description" content="石垣島でレンタカーならハレレアレンタカー。">
+<meta name="twitter:image" content="https://harelea.com/images/ogp.jpg">
